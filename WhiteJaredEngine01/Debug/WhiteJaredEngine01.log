@@ -1,0 +1,34 @@
+﻿  Transform.cpp
+  Timer.cpp
+  TextureManager.cpp
+  Shader.cpp
+  Rigidbody.cpp
+  Object.cpp
+  MovementScript.cpp
+  ModelManager.cpp
+  Main.cpp
+  GameObject.cpp
+  Engine.cpp
+d:\users\jared_2\schoolfolder\school\dsa1\whitejaredengine01\engine.cpp(164): warning C4316: 'Transform': object allocated on the heap may not be aligned 16
+d:\users\jared_2\schoolfolder\school\dsa1\whitejaredengine01\engine.cpp(174): warning C4316: 'Transform': object allocated on the heap may not be aligned 16
+d:\users\jared_2\schoolfolder\school\dsa1\whitejaredengine01\engine.cpp(187): warning C4316: 'Transform': object allocated on the heap may not be aligned 16
+d:\users\jared_2\schoolfolder\school\dsa1\whitejaredengine01\engine.cpp(199): warning C4316: 'Transform': object allocated on the heap may not be aligned 16
+d:\users\jared_2\schoolfolder\school\dsa1\whitejaredengine01\engine.cpp(212): warning C4316: 'Transform': object allocated on the heap may not be aligned 16
+d:\users\jared_2\schoolfolder\school\dsa1\whitejaredengine01\engine.cpp(224): warning C4316: 'Transform': object allocated on the heap may not be aligned 16
+d:\users\jared_2\schoolfolder\school\dsa1\whitejaredengine01\engine.cpp(236): warning C4316: 'Transform': object allocated on the heap may not be aligned 16
+d:\users\jared_2\schoolfolder\school\dsa1\whitejaredengine01\engine.cpp(248): warning C4316: 'Transform': object allocated on the heap may not be aligned 16
+d:\users\jared_2\schoolfolder\school\dsa1\whitejaredengine01\engine.cpp(260): warning C4316: 'Transform': object allocated on the heap may not be aligned 16
+d:\users\jared_2\schoolfolder\school\dsa1\whitejaredengine01\engine.cpp(272): warning C4316: 'Transform': object allocated on the heap may not be aligned 16
+d:\users\jared_2\schoolfolder\school\dsa1\whitejaredengine01\engine.cpp(284): warning C4316: 'Transform': object allocated on the heap may not be aligned 16
+d:\users\jared_2\schoolfolder\school\dsa1\whitejaredengine01\engine.cpp(296): warning C4316: 'Transform': object allocated on the heap may not be aligned 16
+d:\users\jared_2\schoolfolder\school\dsa1\whitejaredengine01\engine.cpp(308): warning C4316: 'Transform': object allocated on the heap may not be aligned 16
+d:\users\jared_2\schoolfolder\school\dsa1\whitejaredengine01\engine.cpp(320): warning C4316: 'Transform': object allocated on the heap may not be aligned 16
+d:\users\jared_2\schoolfolder\school\dsa1\whitejaredengine01\engine.cpp(332): warning C4316: 'Transform': object allocated on the heap may not be aligned 16
+d:\users\jared_2\schoolfolder\school\dsa1\whitejaredengine01\engine.cpp(344): warning C4316: 'Transform': object allocated on the heap may not be aligned 16
+d:\users\jared_2\schoolfolder\school\dsa1\whitejaredengine01\engine.cpp(356): warning C4316: 'Transform': object allocated on the heap may not be aligned 16
+d:\users\jared_2\schoolfolder\school\dsa1\whitejaredengine01\engine.cpp(368): warning C4316: 'Transform': object allocated on the heap may not be aligned 16
+d:\users\jared_2\schoolfolder\school\dsa1\whitejaredengine01\engine.cpp(380): warning C4316: 'Transform': object allocated on the heap may not be aligned 16
+  Camera.cpp
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  WhiteJaredEngine01.vcxproj -> D:\Users\Jared_2\SchoolFolder\School\DSA1\WhiteJaredEngine01\Debug\WhiteJaredEngine01.exe
